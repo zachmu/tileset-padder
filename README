@@ -1,0 +1,5 @@
+# tileset-padder
+
+Tool for game creators to automate adding margins around individual tiles in a tilesheet. This prevents graphical artifacts on the edges of sprites when using sub-pixel smoothing with some graphics cards. See this blog entry for more details: 
+
+http://gamedev.sleptlate.org/blog/316-more-camera-work-and-padded-tilesets/
